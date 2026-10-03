@@ -20,7 +20,7 @@ An API key for the AI chat Features
 # installation
 1.Clone the repository
 git clone
-YOUR_GITHUB_REPOSITORY_URL
+https://github.com/misbah-dev786/AI-assistant 
 
 2.Open the project folder
 cd AI_Assistant
